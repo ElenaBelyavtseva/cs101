@@ -6,6 +6,7 @@ List of projects:
 
 ***
 
+![Image](pic/pic.jpg)
 
 ***
 

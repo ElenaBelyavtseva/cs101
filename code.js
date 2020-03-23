@@ -68,7 +68,7 @@ function aveAge (number) {
 console.log(x)
 
 
-//#8
+//#9
 
 
 

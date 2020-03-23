@@ -33,3 +33,14 @@ for (i = 0; i < 3; i++) {
     }
 
 //#6
+let i = 1;
+for (i = 1; i = 5; i++) {
+  console.log ("#" * i)
+  if (i == 5) {
+    for (; i = 1; i--) {
+      console.log ("#" * (i-1))
+    }
+  }
+}
+
+//#7

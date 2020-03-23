@@ -51,3 +51,24 @@ console.log ("#" * i)
 }
 
 //#8
+let ageArr = [];
+let x=0;
+let i = 0;
+for (i = 0; i < 3; i++) {
+  let userName = prompt ("Введите свое имя:");
+  let userAge = prompt ("Введите свой возраст:");
+  ageArr.push (userAge);
+}
+function aveAge (number) {
+  for (i=0, i=ageArr.length, i++) {
+    x=x+ageArr[i]
+     }
+  x=x/ageArr.length
+}
+console.log(x)
+
+
+//#8
+
+
+

@@ -44,3 +44,10 @@ for (i = 1; i = 5; i++) {
 }
 
 //#7
+let arr = [12, 43, 11, 27, 18];
+let i = 0;
+for (i = 0; i = arr.length; i++) {
+console.log ("#" * i)
+}
+
+//#8
